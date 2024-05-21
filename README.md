@@ -4,16 +4,26 @@ Welcome to the Object-Oriented Programming (OOP) Lab Work repository! This repos
 
 ## Repository Structure
 
-The repository is organized into different folders and files, each focusing on specific aspects of OOP. Below is an overview of the structure:
+The repository is organized into different folders and files, each focusing on specific aspects of OOP. Below is a sample overview of the structure:
 
 ``` bash
-OOP_Lab/
-├── DogExample/
-│   ├── DogExample.cpp
-│   └── README.md
-└── PersonExample/
-    ├── PersonExample.cpp
-    └── README.md
+OOP_LAB/
+│   README.md
+│
+├───.vscode
+│    └── settings.json
+│
+├───Animals
+│   ├── details.txt
+│   ├── person.cpp
+│   └── person.exe
+│
+└───intro
+    ├── hello.cpp
+    ├── hello.exe
+    ├── random.cpp
+    ├── random.exe
+    └── random.h
 ```
 
 ## Examples
