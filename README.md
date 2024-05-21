@@ -28,19 +28,29 @@ OOP_LAB/
 
 ## Examples
 
-### Dog Example
+### Animals Example
 
-This example models a `Dog` class with properties such as `name`, `age`, and `breed`. It includes unique methods for barking and fetching. The example demonstrates how to create multiple instances of the `Dog` class and invoke their methods.
+This example contains a `Person` class that models a person with properties such as `age`, `height`, and `name`. It demonstrates how to use a constructor to initialize these properties and how to display the person's details.
 
-- **File:** `DogExample/DogExample.cpp`
+- **Directory:** `Animals`
+- **Files:**
+  - `person.cpp`: Contains the implementation of the `Person` class.
+  - `person.exe`: The compiled executable of the `person.cpp`.
+  - `details.txt`: Additional details or documentation related to the example.
 - **Key Concepts:** Class definition, constructors, private properties, public methods, and object instantiation.
 
-### Person Example
+### Introductory Examples
 
-This example models a `Person` class with properties like `age`, `height`, and `name`. It demonstrates how to use a constructor to initialize these properties and how to display the person's details.
+This directory contains basic introductory examples to get started with C++ and random number generation.
 
-- **File:** `PersonExample/PersonExample.cpp`
-- **Key Concepts:** Class definition, constructors, private properties, public methods, and object instantiation.
+- **Directory:** `intro`
+- **Files:**
+  - `hello.cpp`: A simple "Hello, World!" program.
+  - `hello.exe`: The compiled executable of the `hello.cpp`.
+  - `random.cpp`: A program that demonstrates generating random numbers.
+  - `random.exe`: The compiled executable of the `random.cpp`.
+  - `random.h`: Header file for the random number generation program.
+- **Key Concepts:** Basic C++ syntax, input/output operations, random number generation.
 
 ## How to Run the Code
 
