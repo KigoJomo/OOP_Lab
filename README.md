@@ -85,7 +85,7 @@ Repeat the steps for other examples by navigating to their respective directorie
 
 ## Author
 
-This repository is maintained by [KigoJomo](https://github.com/KigoJomo).
+This repository is maintained by [Jomo Kigo](https://github.com/KigoJomo).
 
 ## License
 
