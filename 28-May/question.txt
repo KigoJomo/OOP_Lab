@@ -1,0 +1,5 @@
+1. Write an application that records two scores from a test and displays them on the screen
+
+2. Modify the above program to include finding the sum of the two scores and displaying the sum
+
+3. Modify the program to grade any score as above 40 a Pass and below 40 as a Fail
