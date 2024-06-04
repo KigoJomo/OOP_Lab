@@ -1,0 +1,42 @@
+# ninja log v5
+5	1302	7391938511382259	QTApp1_autogen/timestamp	aa8d07a7c6430c7b
+5	1302	7391938511382259	QTApp1_autogen/mocs_compilation.cpp	aa8d07a7c6430c7b
+5	1302	7391938511382259	C:/Users/Nova/Documents/BSc IT 3.1/OOP_2_Advanced_Programming/OOP_Lab/QT Apps/QTApp1/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/QTApp1_autogen/timestamp	aa8d07a7c6430c7b
+5	1302	7391938511382259	C:/Users/Nova/Documents/BSc IT 3.1/OOP_2_Advanced_Programming/OOP_Lab/QT Apps/QTApp1/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/QTApp1_autogen/mocs_compilation.cpp	aa8d07a7c6430c7b
+1303	6296	7391938562739290	CMakeFiles/QTApp1.dir/main.cpp.obj	25aeeee1aed595aa
+1316	6348	7391938563311578	CMakeFiles/QTApp1.dir/mainwindow.cpp.obj	44db4969e1cac76f
+1309	6399	7391938563726839	CMakeFiles/QTApp1.dir/QTApp1_autogen/mocs_compilation.cpp.obj	d54302ee50e4b230
+6400	7274	7391938572433656	QTApp1.exe	9cd9236edb78c86
+46	500	7391952689895063	QTApp1_autogen/timestamp	aa8d07a7c6430c7b
+46	500	7391952689895063	QTApp1_autogen/mocs_compilation.cpp	aa8d07a7c6430c7b
+46	500	7391952689895063	C:/Users/Nova/Documents/BSc IT 3.1/OOP_2_Advanced_Programming/OOP_Lab/QT Apps/QTApp1/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/QTApp1_autogen/timestamp	aa8d07a7c6430c7b
+46	500	7391952689895063	C:/Users/Nova/Documents/BSc IT 3.1/OOP_2_Advanced_Programming/OOP_Lab/QT Apps/QTApp1/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/QTApp1_autogen/mocs_compilation.cpp	aa8d07a7c6430c7b
+557	7794	7391952762854936	CMakeFiles/QTApp1.dir/mainwindow.cpp.obj	44db4969e1cac76f
+72	514	7391952978021624	QTApp1_autogen/timestamp	aa8d07a7c6430c7b
+72	514	7391952978021624	QTApp1_autogen/mocs_compilation.cpp	aa8d07a7c6430c7b
+72	514	7391952978021624	C:/Users/Nova/Documents/BSc IT 3.1/OOP_2_Advanced_Programming/OOP_Lab/QT Apps/QTApp1/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/QTApp1_autogen/timestamp	aa8d07a7c6430c7b
+72	514	7391952978021624	C:/Users/Nova/Documents/BSc IT 3.1/OOP_2_Advanced_Programming/OOP_Lab/QT Apps/QTApp1/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/QTApp1_autogen/mocs_compilation.cpp	aa8d07a7c6430c7b
+569	6596	7391953038552732	CMakeFiles/QTApp1.dir/mainwindow.cpp.obj	44db4969e1cac76f
+563	15507	7391953127909625	CMakeFiles/QTApp1.dir/main.cpp.obj	25aeeee1aed595aa
+15521	16887	7391953141611370	QTApp1.exe	9cd9236edb78c86
+94	538	7391953704609191	QTApp1_autogen/timestamp	aa8d07a7c6430c7b
+94	538	7391953704609191	QTApp1_autogen/mocs_compilation.cpp	aa8d07a7c6430c7b
+94	538	7391953704609191	C:/Users/Nova/Documents/BSc IT 3.1/OOP_2_Advanced_Programming/OOP_Lab/QT Apps/QTApp1/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/QTApp1_autogen/timestamp	aa8d07a7c6430c7b
+94	538	7391953704609191	C:/Users/Nova/Documents/BSc IT 3.1/OOP_2_Advanced_Programming/OOP_Lab/QT Apps/QTApp1/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/QTApp1_autogen/mocs_compilation.cpp	aa8d07a7c6430c7b
+597	7620	7391953775041607	CMakeFiles/QTApp1.dir/mainwindow.cpp.obj	44db4969e1cac76f
+591	18286	7391953882068925	CMakeFiles/QTApp1.dir/main.cpp.obj	25aeeee1aed595aa
+18287	18743	7391953886550551	QTApp1.exe	9cd9236edb78c86
+70	538	7391954295922655	QTApp1_autogen/timestamp	aa8d07a7c6430c7b
+70	538	7391954295922655	QTApp1_autogen/mocs_compilation.cpp	aa8d07a7c6430c7b
+70	538	7391954295922655	C:/Users/Nova/Documents/BSc IT 3.1/OOP_2_Advanced_Programming/OOP_Lab/QT Apps/QTApp1/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/QTApp1_autogen/timestamp	aa8d07a7c6430c7b
+70	538	7391954295922655	C:/Users/Nova/Documents/BSc IT 3.1/OOP_2_Advanced_Programming/OOP_Lab/QT Apps/QTApp1/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/QTApp1_autogen/mocs_compilation.cpp	aa8d07a7c6430c7b
+598	6756	7391954357708199	CMakeFiles/QTApp1.dir/mainwindow.cpp.obj	44db4969e1cac76f
+592	15854	7391954449075557	CMakeFiles/QTApp1.dir/main.cpp.obj	25aeeee1aed595aa
+15854	16467	7391954455009218	QTApp1.exe	9cd9236edb78c86
+45	416	7391966441275713	QTApp1_autogen/timestamp	aa8d07a7c6430c7b
+45	416	7391966441275713	QTApp1_autogen/mocs_compilation.cpp	aa8d07a7c6430c7b
+45	416	7391966441275713	C:/Users/Nova/Documents/BSc IT 3.1/OOP_2_Advanced_Programming/OOP_Lab/QT Apps/QTApp1/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/QTApp1_autogen/timestamp	aa8d07a7c6430c7b
+45	416	7391966441275713	C:/Users/Nova/Documents/BSc IT 3.1/OOP_2_Advanced_Programming/OOP_Lab/QT Apps/QTApp1/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/QTApp1_autogen/mocs_compilation.cpp	aa8d07a7c6430c7b
+475	6680	7391966503442804	CMakeFiles/QTApp1.dir/mainwindow.cpp.obj	44db4969e1cac76f
+467	15730	7391966594358170	CMakeFiles/QTApp1.dir/main.cpp.obj	25aeeee1aed595aa
+15731	16307	7391966599933570	QTApp1.exe	9cd9236edb78c86

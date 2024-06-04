@@ -5,41 +5,45 @@ using namespace std;
 
 class Dog {
 private:
-    string name;
-    int age;
     string breed;
+    int age;
 
 public:
-    Dog(string n, int a, string b) : name(n), age(a), breed(b) {}
+    Dog(string b, int a) : breed(b), age(a) {}
 
     void display() const {
-        cout << "Name: " << name << ", Age: " << age << ", Breed: " << breed << endl;
+        cout << "\n";
+        cout << "Breed: " << breed << endl;
+        cout << "Age: " << age << endl;
     }
 
     void bark() const {
-        cout << name << " says: Woof! Woof!" << endl;
+        cout << breed << " says: Woof! Woof!" << endl;
     }
 
     void fetch() const {
-        cout << name << " is fetching the ball!" << endl;
+        cout << breed << " is fetching the ball!" << endl;
     }
 };
 
 int main() {
-    Dog dog1("Buddy", 3, "Golden Retriever");
-    Dog dog2("Max", 5, "German Shepherd");
-    Dog dog3("Bella", 2, "Labrador Retriever");
-    Dog dog4("Lucy", 4, "Bulldog");
+    Dog dog1("Chihuahua", 3);
+    Dog dog2("German Shepherd", 5);
+    Dog dog3("Rottweiler", 2);
+    Dog dog4("Bulldog", 4);
 
     dog1.display();
-    dog2.display();
-    dog3.display();
-    dog4.display();
-
     dog1.bark();
+
+    dog2.display();
     dog2.bark();
+
+    dog3.display();
     dog3.fetch();
+
+    dog4.display();
     dog4.fetch();
+
 
     return 0;
 }
