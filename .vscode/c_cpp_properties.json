@@ -3,7 +3,8 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/sqlite-amalgamation-3300100"
             ],
             "defines": [
                 "_DEBUG",
